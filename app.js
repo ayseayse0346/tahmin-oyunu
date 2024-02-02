@@ -1,4 +1,4 @@
-// let s = +prompt("tamin sayinizi giriniz");
+let s = +prompt("tamin sayinizi giriniz");
 let t = Math.round(Math.random() * 100);
 console.log(t);
 for (i = 1; i <= s; i++) {
